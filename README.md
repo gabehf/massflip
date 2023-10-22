@@ -1,3 +1,5 @@
+Note: This repo was forked from my old github account
+
 # Massflip
 Massflip is an online coinflip betting game using virtual currency called GP. It has an account system, realtime chat, and realtime betting.
 ## Technology
